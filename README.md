@@ -10,8 +10,7 @@ This repository contains my solution of the exercise for the job application pro
 ### What would you change if the list of keywords was large (several millions)?
 My first thought is by using a database to retrieve suggestions based in the given input.
 
-### What would you change if the requirements were to match any portion of the keywords (example:
-for string “pro”, code would possibly return “reprobe”)
+### What would you change if the requirements were to match any portion of the keywords (example: for string “pro”, code would possibly return “reprobe”)?
 In my given solution, I would modify the logic of the if block (Autocomplete.java, line 28) and instead check if the given input is contained within any part of the keyword rather than checking if the keyword starts with the given input. Replacing .startsWith() with .contains() might just achieve this.
 
 ## Feedback
