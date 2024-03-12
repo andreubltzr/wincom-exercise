@@ -19,4 +19,4 @@ Your feedback is greatly appreciated! Feel free to share any ideas, improvements
 
 ## Contact information
 - Email: [andreubltzr11@gmail.com](mailto:andreubltzr11@gmail.com)
-- LinkedIn: [Andreu Baltazar](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/andreu-baltazar/)https://www.linkedin.com/in/andreu-baltazar/)
+- LinkedIn: [Andreu Baltazar](https://www.linkedin.com/in/andreu-baltazar/)
